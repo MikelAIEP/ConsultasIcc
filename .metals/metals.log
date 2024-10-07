@@ -1,0 +1,1388 @@
+2024.10.07 12:10:30 INFO  Started: Metals version 1.3.5 in folders '/Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc' for client Visual Studio Code 1.94.0.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@4f9ee9cb]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@6e42578f]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@4f9ee9cb]
+2024.10.07 12:10:30 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.10.07 12:10:31 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 12:10:34 WARN  Could not find semantic tokens for: file:///Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 12:10:44 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 12:10:44 WARN  Could not find semantic tokens for: file:///Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala
+2024.10.07 12:11:16 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 12:11:16 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 12:11:25 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 12:12:28 WARN  no build target for: /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala
+2024.10.07 12:12:28 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 12:12:28 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 12:12:43 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 12:12:43 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 12:13:25 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 12:13:25 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 12:13:25 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 12:18:42 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 12:18:44 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 12:44:13 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 12:51:12 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 12:52:27 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 12:52:27 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 12:52:28 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 12:52:28 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 12:52:28 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 12:52:33 WARN  no build target for: /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala
+2024.10.07 12:52:33 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 12:52:33 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 12:52:35 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:00:12 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:00:12 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:00:15 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:00:17 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:00:17 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:00:17 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:00:25 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:00:25 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:00:39 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:00:39 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:00:39 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:00:40 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:00:40 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:00:43 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:00:43 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:00:43 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:00:43 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:00:43 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:00:44 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:00:45 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:00:46 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:00:46 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:00:48 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:00:49 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:00:49 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:00:49 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:00:50 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:00:55 WARN  no build target for: /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala
+2024.10.07 13:00:55 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:00:55 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Oct 07, 2024 1:01:52 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2024.10.07 13:04:09 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Oct 07, 2024 1:04:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "vscode-chat-code-block://9dfbe955-bdac-45af-8472-4e124a06c299/response_0/2#%7B%22references%22%3A%5B%7B%22uri%22%3A%7B%22%24mid%22%3A1%2C%22fsPath%22%3A%22%2FUsers%2Fmikel.cuellar%2FDocuments%2FDesarrollito%2FConsultaIcc%2Fsrc%2Fmain%2Fscala%2FMain.scala%22%2C%22external%22%3A%22file%3A%2F%2F%2FUsers%2Fmikel.cuellar%2FDocuments%2FDesarrollito%2FConsultaIcc%2Fsrc%2Fmain%2Fscala%2FMain.scala%22%2C%22path%22%3A%22%2FUsers%2Fmikel.cuellar%2FDocuments%2FDesarrollito%2FConsultaIcc%2Fsrc%2Fmain%2Fscala%2FMain.scala%22%2C%22scheme%22%3A%22file%22%7D%2C%22range%22%3A%7B%22startLineNumber%22%3A5%2C%22startColumn%22%3A1%2C%22endLineNumber%22%3A30%2C%22endColumn%22%3A2%7D%7D%5D%7D"
+  ]
+}
+java.nio.file.FileSystemNotFoundException: Provider "vscode-chat-code-block" not installed
+	at java.base/java.nio.file.Path.of(Path.java:212)
+	at java.base/java.nio.file.Paths.get(Paths.java:98)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:130)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:187)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:773)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:770)
+	at scala.meta.internal.metals.WorkspaceLspService.didFocus(WorkspaceLspService.scala:698)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:43)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:231)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+Oct 07, 2024 1:05:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "vscode-chat-code-block://9dfbe955-bdac-45af-8472-4e124a06c299/response_0/1#%7B%22references%22%3A%5B%7B%22uri%22%3A%7B%22%24mid%22%3A1%2C%22fsPath%22%3A%22%2FUsers%2Fmikel.cuellar%2FDocuments%2FDesarrollito%2FConsultaIcc%2Fsrc%2Fmain%2Fscala%2FMain.scala%22%2C%22external%22%3A%22file%3A%2F%2F%2FUsers%2Fmikel.cuellar%2FDocuments%2FDesarrollito%2FConsultaIcc%2Fsrc%2Fmain%2Fscala%2FMain.scala%22%2C%22path%22%3A%22%2FUsers%2Fmikel.cuellar%2FDocuments%2FDesarrollito%2FConsultaIcc%2Fsrc%2Fmain%2Fscala%2FMain.scala%22%2C%22scheme%22%3A%22file%22%7D%2C%22range%22%3A%7B%22startLineNumber%22%3A5%2C%22startColumn%22%3A1%2C%22endLineNumber%22%3A30%2C%22endColumn%22%3A2%7D%7D%5D%7D"
+  ]
+}
+java.nio.file.FileSystemNotFoundException: Provider "vscode-chat-code-block" not installed
+	at java.base/java.nio.file.Path.of(Path.java:212)
+	at java.base/java.nio.file.Paths.get(Paths.java:98)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:130)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:187)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:773)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:770)
+	at scala.meta.internal.metals.WorkspaceLspService.didFocus(WorkspaceLspService.scala:698)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:43)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:231)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+2024.10.07 13:05:04 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:05:04 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:05:05 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Oct 07, 2024 1:05:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "vscode-chat-code-block://9dfbe955-bdac-45af-8472-4e124a06c299/response_0/2#%7B%22references%22%3A%5B%7B%22uri%22%3A%7B%22%24mid%22%3A1%2C%22fsPath%22%3A%22%2FUsers%2Fmikel.cuellar%2FDocuments%2FDesarrollito%2FConsultaIcc%2Fsrc%2Fmain%2Fscala%2FMain.scala%22%2C%22external%22%3A%22file%3A%2F%2F%2FUsers%2Fmikel.cuellar%2FDocuments%2FDesarrollito%2FConsultaIcc%2Fsrc%2Fmain%2Fscala%2FMain.scala%22%2C%22path%22%3A%22%2FUsers%2Fmikel.cuellar%2FDocuments%2FDesarrollito%2FConsultaIcc%2Fsrc%2Fmain%2Fscala%2FMain.scala%22%2C%22scheme%22%3A%22file%22%7D%2C%22range%22%3A%7B%22startLineNumber%22%3A5%2C%22startColumn%22%3A1%2C%22endLineNumber%22%3A30%2C%22endColumn%22%3A2%7D%7D%5D%7D"
+  ]
+}
+java.nio.file.FileSystemNotFoundException: Provider "vscode-chat-code-block" not installed
+	at java.base/java.nio.file.Path.of(Path.java:212)
+	at java.base/java.nio.file.Paths.get(Paths.java:98)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:130)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:187)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:773)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:770)
+	at scala.meta.internal.metals.WorkspaceLspService.didFocus(WorkspaceLspService.scala:698)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:43)
+	at jdk.internal.reflect.GeneratedMethodAccessor11.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:231)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+2024.10.07 13:05:53 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:06:01 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:06:01 WARN  Could not find semantic tokens for: file:///Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 13:06:12 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:06:17 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:06:17 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:06:21 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:06:21 WARN  Could not find semantic tokens for: file:///Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 13:08:50 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:08:50 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:08:50 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:08:52 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:08:52 WARN  Could not find semantic tokens for: file:///Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 13:08:54 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:08:54 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:09:09 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:09:09 WARN  Could not find semantic tokens for: file:///Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 13:09:33 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:09:33 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:09:33 WARN  Could not find semantic tokens for: file:///Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 13:09:35 WARN  no build target for: /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 13:09:35 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:09:35 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:09:35 WARN  Could not find semantic tokens for: file:///Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 13:09:35 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:09:35 WARN  Could not find semantic tokens for: file:///Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+Oct 07, 2024 1:09:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "vscode-chat-code-block://9dfbe955-bdac-45af-8472-4e124a06c299/response_0/1#%7B%22references%22%3A%5B%7B%22uri%22%3A%7B%22%24mid%22%3A1%2C%22fsPath%22%3A%22%2FUsers%2Fmikel.cuellar%2FDocuments%2FDesarrollito%2FConsultaIcc%2Fsrc%2Fmain%2Fscala%2FMain.scala%22%2C%22external%22%3A%22file%3A%2F%2F%2FUsers%2Fmikel.cuellar%2FDocuments%2FDesarrollito%2FConsultaIcc%2Fsrc%2Fmain%2Fscala%2FMain.scala%22%2C%22path%22%3A%22%2FUsers%2Fmikel.cuellar%2FDocuments%2FDesarrollito%2FConsultaIcc%2Fsrc%2Fmain%2Fscala%2FMain.scala%22%2C%22scheme%22%3A%22file%22%7D%2C%22range%22%3A%7B%22startLineNumber%22%3A5%2C%22startColumn%22%3A1%2C%22endLineNumber%22%3A30%2C%22endColumn%22%3A2%7D%7D%5D%7D"
+  ]
+}
+java.nio.file.FileSystemNotFoundException: Provider "vscode-chat-code-block" not installed
+	at java.base/java.nio.file.Path.of(Path.java:212)
+	at java.base/java.nio.file.Paths.get(Paths.java:98)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:130)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:187)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:773)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:770)
+	at scala.meta.internal.metals.WorkspaceLspService.didFocus(WorkspaceLspService.scala:698)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:43)
+	at jdk.internal.reflect.GeneratedMethodAccessor11.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:231)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+2024.10.07 13:09:44 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:09:47 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:09:47 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:09:48 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:09:49 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:09:49 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:09:51 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:09:52 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:09:51 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:09:53 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:09:53 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:09:53 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:09:53 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:09:53 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:09:53 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:09:54 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:09:53 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:09:53 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:09:53 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:09:54 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:09:54 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:09:54 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:09:54 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:09:54 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:09:54 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:09:54 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:09:54 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:09:54 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:09:54 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:09:54 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:09:54 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:09:54 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:09:54 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:09:54 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:09:54 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:09:55 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:09:55 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:09:55 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:09:55 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:09:55 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:09:55 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:09:55 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:09:55 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:09:55 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:09:55 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:09:55 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:09:55 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:09:55 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:09:55 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:09:55 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:09:56 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:09:56 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:09:56 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:09:56 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:09:56 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:09:58 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:09:58 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:09:58 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:09:58 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:09:59 WARN  no build target for: /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala
+2024.10.07 13:09:59 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:10:39 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:10:39 WARN  Could not find semantic tokens for: file:///Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+Oct 07, 2024 1:11:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "vscode-chat-code-block://9dfbe955-bdac-45af-8472-4e124a06c299/response_1/0#%7B%22references%22%3A%5B%7B%22uri%22%3A%7B%22%24mid%22%3A1%2C%22fsPath%22%3A%22%2FUsers%2Fmikel.cuellar%2FDocuments%2FDesarrollito%2FConsultaIcc%2Fbuild.sbt%22%2C%22external%22%3A%22file%3A%2F%2F%2FUsers%2Fmikel.cuellar%2FDocuments%2FDesarrollito%2FConsultaIcc%2Fbuild.sbt%22%2C%22path%22%3A%22%2FUsers%2Fmikel.cuellar%2FDocuments%2FDesarrollito%2FConsultaIcc%2Fbuild.sbt%22%2C%22scheme%22%3A%22file%22%7D%2C%22range%22%3A%7B%22startLineNumber%22%3A1%2C%22startColumn%22%3A1%2C%22endLineNumber%22%3A1%2C%22endColumn%22%3A88%7D%7D%5D%7D"
+  ]
+}
+java.nio.file.FileSystemNotFoundException: Provider "vscode-chat-code-block" not installed
+	at java.base/java.nio.file.Path.of(Path.java:212)
+	at java.base/java.nio.file.Paths.get(Paths.java:98)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:130)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:187)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:773)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:770)
+	at scala.meta.internal.metals.WorkspaceLspService.didFocus(WorkspaceLspService.scala:698)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:43)
+	at jdk.internal.reflect.GeneratedMethodAccessor11.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:231)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+2024.10.07 13:11:52 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:11:52 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:11:53 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:11:53 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:12:00 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:12:00 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:13:05 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:13:05 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:13:10 WARN  no build target for: /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala
+2024.10.07 13:13:10 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:13:10 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:13:16 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:13:16 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:13:17 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:13:19 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:13:26 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:13:36 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:17:45 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:17:45 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:17:50 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:17:50 WARN  Could not find semantic tokens for: file:///Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 13:19:19 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:24:19 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:24:33 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:24:44 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:24:47 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:24:47 WARN  Could not find semantic tokens for: file:///Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 13:24:50 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:24:50 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:24:50 WARN  Could not find semantic tokens for: file:///Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 13:25:24 WARN  no build target for: /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 13:25:24 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:25:24 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:25:24 WARN  Could not find semantic tokens for: file:///Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 13:25:24 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:25:24 WARN  Could not find semantic tokens for: file:///Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 13:25:26 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:26:29 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:26:33 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:26:43 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:34:37 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:34:37 WARN  Could not find semantic tokens for: file:///Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 13:34:40 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:34:41 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:34:41 WARN  Could not find semantic tokens for: file:///Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 13:34:42 WARN  no build target for: /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 13:34:42 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:34:42 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:34:42 WARN  Could not find semantic tokens for: file:///Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 13:34:43 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:34:43 WARN  Could not find semantic tokens for: file:///Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 13:34:45 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:34:46 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:34:49 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:34:53 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:34:53 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:34:53 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:34:55 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:34:56 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:34:56 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:34:56 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:34:57 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:34:57 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:34:59 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:35:02 WARN  no build target for: /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala
+2024.10.07 13:35:02 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:35:02 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:35:09 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:35:58 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:36:00 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:36:04 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:36:09 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:36:14 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:36:33 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:38:04 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:38:04 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:38:10 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:38:12 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:38:12 WARN  Could not find semantic tokens for: file:///Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 13:38:17 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:38:33 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Oct 07, 2024 1:39:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "vscode-chat-code-block://9dfbe955-bdac-45af-8472-4e124a06c299/response_6/3#%7B%22references%22%3A%5B%7B%22uri%22%3A%7B%22%24mid%22%3A1%2C%22fsPath%22%3A%22%2FUsers%2Fmikel.cuellar%2FDocuments%2FDesarrollito%2FConsultaIcc%2Fsrc%2Fmain%2Fscala%2FMain.scala%22%2C%22external%22%3A%22file%3A%2F%2F%2FUsers%2Fmikel.cuellar%2FDocuments%2FDesarrollito%2FConsultaIcc%2Fsrc%2Fmain%2Fscala%2FMain.scala%22%2C%22path%22%3A%22%2FUsers%2Fmikel.cuellar%2FDocuments%2FDesarrollito%2FConsultaIcc%2Fsrc%2Fmain%2Fscala%2FMain.scala%22%2C%22scheme%22%3A%22file%22%7D%2C%22range%22%3A%7B%22startLineNumber%22%3A6%2C%22startColumn%22%3A1%2C%22endLineNumber%22%3A50%2C%22endColumn%22%3A2%7D%7D%5D%7D"
+  ]
+}
+java.nio.file.FileSystemNotFoundException: Provider "vscode-chat-code-block" not installed
+	at java.base/java.nio.file.Path.of(Path.java:212)
+	at java.base/java.nio.file.Paths.get(Paths.java:98)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:130)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:187)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:773)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:770)
+	at scala.meta.internal.metals.WorkspaceLspService.didFocus(WorkspaceLspService.scala:698)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:43)
+	at jdk.internal.reflect.GeneratedMethodAccessor11.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:231)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+2024.10.07 13:39:29 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:39:29 WARN  Could not find semantic tokens for: file:///Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 13:39:31 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:39:32 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:39:32 WARN  Could not find semantic tokens for: file:///Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 13:39:39 WARN  no build target for: /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 13:39:39 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:39:39 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:39:39 WARN  Could not find semantic tokens for: file:///Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 13:39:39 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:39:39 WARN  Could not find semantic tokens for: file:///Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 13:42:47 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:42:56 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:43:03 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:43:04 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:43:04 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Oct 07, 2024 1:43:05 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/.metals/.reports/metals-full/2024-10-07/r_compiler-error_13-43-05-029.md
+2024.10.07 13:43:05 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:43:07 WARN  no build target for: /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala
+2024.10.07 13:43:07 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Oct 07, 2024 1:43:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "vscode-chat-code-block://9dfbe955-bdac-45af-8472-4e124a06c299/response_7/0#%7B%22references%22%3A%5B%7B%22uri%22%3A%7B%22%24mid%22%3A1%2C%22fsPath%22%3A%22%2FUsers%2Fmikel.cuellar%2FDocuments%2FDesarrollito%2FConsultaIcc%2Fbuild.sbt%22%2C%22external%22%3A%22file%3A%2F%2F%2FUsers%2Fmikel.cuellar%2FDocuments%2FDesarrollito%2FConsultaIcc%2Fbuild.sbt%22%2C%22path%22%3A%22%2FUsers%2Fmikel.cuellar%2FDocuments%2FDesarrollito%2FConsultaIcc%2Fbuild.sbt%22%2C%22scheme%22%3A%22file%22%7D%2C%22range%22%3A%7B%22startLineNumber%22%3A1%2C%22startColumn%22%3A1%2C%22endLineNumber%22%3A8%2C%22endColumn%22%3A63%7D%7D%5D%7D"
+  ]
+}
+java.nio.file.FileSystemNotFoundException: Provider "vscode-chat-code-block" not installed
+	at java.base/java.nio.file.Path.of(Path.java:212)
+	at java.base/java.nio.file.Paths.get(Paths.java:98)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:130)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:187)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:773)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:770)
+	at scala.meta.internal.metals.WorkspaceLspService.didFocus(WorkspaceLspService.scala:698)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:43)
+	at jdk.internal.reflect.GeneratedMethodAccessor11.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:231)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+2024.10.07 13:43:12 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:43:12 WARN  Could not find semantic tokens for: file:///Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 13:43:16 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:43:17 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:43:17 WARN  Could not find semantic tokens for: file:///Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 13:43:19 WARN  no build target for: /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 13:43:19 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:43:19 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:43:19 WARN  Could not find semantic tokens for: file:///Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 13:43:19 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:43:19 WARN  Could not find semantic tokens for: file:///Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 13:47:30 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:47:31 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:48:23 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:48:23 WARN  Could not find semantic tokens for: file:///Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 13:48:47 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:48:47 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:48:47 WARN  Could not find semantic tokens for: file:///Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 13:48:49 WARN  no build target for: /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 13:48:49 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:48:49 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:48:49 WARN  Could not find semantic tokens for: file:///Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 13:48:49 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:48:49 WARN  Could not find semantic tokens for: file:///Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 13:48:54 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:48:55 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:50:14 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:50:14 WARN  Could not find semantic tokens for: file:///Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 13:50:17 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:50:17 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:50:17 WARN  Could not find semantic tokens for: file:///Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 13:50:19 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:50:19 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:50:19 WARN  Could not find semantic tokens for: file:///Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 13:50:19 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:50:19 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:50:20 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:50:20 WARN  Could not find semantic tokens for: file:///Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 13:50:19 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:50:19 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:50:19 WARN  Could not find semantic tokens for: file:///Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 13:50:20 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:50:20 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:50:21 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:50:21 WARN  Could not find semantic tokens for: file:///Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 13:50:20 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:50:21 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:50:21 WARN  Could not find semantic tokens for: file:///Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 13:50:25 WARN  no build target for: /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 13:50:25 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:50:25 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:50:25 WARN  Could not find semantic tokens for: file:///Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 13:50:25 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:50:25 WARN  Could not find semantic tokens for: file:///Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 13:50:27 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:52:45 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:52:45 WARN  Could not find semantic tokens for: file:///Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 13:53:06 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:53:06 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:53:09 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:53:09 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:53:09 WARN  Could not find semantic tokens for: file:///Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 13:53:11 WARN  no build target for: /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 13:53:11 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:53:11 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:53:11 WARN  Could not find semantic tokens for: file:///Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 13:53:12 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:53:12 WARN  Could not find semantic tokens for: file:///Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 13:53:59 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:53:59 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:54:01 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:54:01 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:54:01 WARN  Could not find semantic tokens for: file:///Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 13:54:01 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:54:02 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:54:02 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:54:04 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:54:04 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:54:04 WARN  Could not find semantic tokens for: file:///Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 13:54:09 WARN  no build target for: /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 13:54:09 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:54:09 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:54:09 WARN  Could not find semantic tokens for: file:///Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 13:54:09 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:54:09 WARN  Could not find semantic tokens for: file:///Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 13:55:29 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:55:29 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:55:29 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:55:29 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:55:29 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:55:29 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:55:29 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:55:33 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:55:33 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:55:33 WARN  Could not find semantic tokens for: file:///Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 13:55:35 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:55:35 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:55:35 WARN  Could not find semantic tokens for: file:///Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 13:55:35 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:55:35 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:55:35 WARN  Could not find semantic tokens for: file:///Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 13:55:37 WARN  no build target for: /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 13:55:37 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:55:37 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:55:37 WARN  Could not find semantic tokens for: file:///Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 13:55:38 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:55:38 WARN  Could not find semantic tokens for: file:///Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 13:57:32 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:57:32 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:57:34 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:57:35 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:57:35 WARN  Could not find semantic tokens for: file:///Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 13:57:36 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:57:36 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:57:36 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:57:38 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:57:38 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:57:38 WARN  Could not find semantic tokens for: file:///Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 13:57:39 WARN  no build target for: /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 13:57:39 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:57:39 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:57:39 WARN  Could not find semantic tokens for: file:///Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 13:57:39 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:57:39 WARN  Could not find semantic tokens for: file:///Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 13:59:10 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:59:10 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:59:10 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:59:10 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:59:13 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:59:13 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:59:13 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:59:16 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:59:16 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:59:17 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:59:17 WARN  Could not find semantic tokens for: file:///Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 13:59:21 WARN  no build target for: /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 13:59:21 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:59:21 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:59:21 WARN  Could not find semantic tokens for: file:///Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 13:59:21 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 13:59:21 WARN  Could not find semantic tokens for: file:///Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 14:01:43 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:01:43 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:01:43 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:01:43 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:01:43 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:01:45 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:01:46 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:01:46 WARN  Could not find semantic tokens for: file:///Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 14:01:49 WARN  no build target for: /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 14:01:49 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:01:49 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:01:49 WARN  Could not find semantic tokens for: file:///Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 14:01:50 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:01:50 WARN  Could not find semantic tokens for: file:///Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 14:01:53 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:02:15 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:02:15 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:02:17 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:02:17 WARN  Could not find semantic tokens for: file:///Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 14:02:19 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:02:21 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:02:21 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:02:21 WARN  Could not find semantic tokens for: file:///Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 14:02:22 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:02:22 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:02:23 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:02:23 WARN  Could not find semantic tokens for: file:///Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 14:02:22 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:02:22 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:02:23 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:02:23 WARN  Could not find semantic tokens for: file:///Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 14:02:22 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:02:23 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:02:23 WARN  Could not find semantic tokens for: file:///Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 14:02:24 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:02:24 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:02:24 WARN  Could not find semantic tokens for: file:///Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 14:02:26 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:02:26 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:02:26 WARN  Could not find semantic tokens for: file:///Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 14:02:32 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:02:32 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:02:34 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:02:34 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:02:34 WARN  Could not find semantic tokens for: file:///Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 14:02:35 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:02:35 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:02:37 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:02:37 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:02:37 WARN  Could not find semantic tokens for: file:///Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 14:02:39 WARN  no build target for: /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 14:02:39 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:02:39 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:02:39 WARN  Could not find semantic tokens for: file:///Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 14:02:39 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:02:39 WARN  Could not find semantic tokens for: file:///Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 14:06:29 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:06:29 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:06:29 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:06:29 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:06:29 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:06:32 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:06:36 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:06:36 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:06:36 WARN  Could not find semantic tokens for: file:///Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 14:06:36 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:06:37 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:06:37 WARN  Could not find semantic tokens for: file:///Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 14:06:41 WARN  no build target for: /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 14:06:41 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:06:41 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:06:41 WARN  Could not find semantic tokens for: file:///Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 14:06:42 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:06:42 WARN  Could not find semantic tokens for: file:///Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 14:07:07 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:07:08 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:07:08 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:07:08 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:07:08 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:07:10 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:07:44 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:07:49 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:07:49 WARN  Could not find semantic tokens for: file:///Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 14:20:50 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:20:50 WARN  Could not find semantic tokens for: file:///Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 14:23:00 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:23:04 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:27:46 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:27:46 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:27:48 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:27:48 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:27:49 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:27:49 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:27:50 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:27:50 WARN  Could not find semantic tokens for: file:///Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 14:27:51 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:27:51 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:27:53 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:27:53 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:27:53 WARN  Could not find semantic tokens for: file:///Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 14:27:56 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:27:57 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:27:58 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:27:58 WARN  Could not find semantic tokens for: file:///Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 14:28:01 WARN  no build target for: /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 14:28:01 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:28:01 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:28:01 WARN  Could not find semantic tokens for: file:///Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 14:28:01 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:28:01 WARN  Could not find semantic tokens for: file:///Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 14:29:33 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:29:33 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:29:36 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:29:36 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:29:36 WARN  Could not find semantic tokens for: file:///Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 14:29:37 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:29:37 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:29:39 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:29:39 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:29:39 WARN  Could not find semantic tokens for: file:///Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 14:29:41 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:29:41 WARN  no build target for: /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 14:29:41 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:29:41 WARN  Could not find semantic tokens for: file:///Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 14:29:41 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:29:41 WARN  Could not find semantic tokens for: file:///Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 14:33:02 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:33:02 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:33:04 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:33:04 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:33:04 WARN  Could not find semantic tokens for: file:///Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 14:33:05 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:33:05 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:33:06 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:33:08 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:33:08 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:33:08 WARN  Could not find semantic tokens for: file:///Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 14:33:08 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:33:09 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:33:09 WARN  Could not find semantic tokens for: file:///Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 14:33:15 WARN  no build target for: /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 14:33:15 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:33:15 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:33:15 WARN  Could not find semantic tokens for: file:///Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 14:33:16 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:33:16 WARN  Could not find semantic tokens for: file:///Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 14:35:08 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:35:09 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:35:09 WARN  Could not find semantic tokens for: file:///Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 14:35:08 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:35:10 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:35:10 WARN  Could not find semantic tokens for: file:///Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 14:35:11 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:35:11 WARN  no build target for: /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 14:35:11 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:35:11 WARN  Could not find semantic tokens for: file:///Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 14:35:11 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:35:11 WARN  Could not find semantic tokens for: file:///Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 14:38:29 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:38:29 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:38:32 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:38:32 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:38:33 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:38:33 WARN  Could not find semantic tokens for: file:///Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 14:38:34 WARN  no build target for: /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 14:38:34 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:38:34 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:38:34 WARN  Could not find semantic tokens for: file:///Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 14:38:34 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:38:34 WARN  Could not find semantic tokens for: file:///Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+Oct 07, 2024 2:39:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "vscode-chat-code-block://9dfbe955-bdac-45af-8472-4e124a06c299/response_9/0#%7B%22references%22%3A%5B%7B%22uri%22%3A%7B%22%24mid%22%3A1%2C%22fsPath%22%3A%22%2FUsers%2Fmikel.cuellar%2FDocuments%2FDesarrollito%2FConsultaIcc%2Fbuild.sbt%22%2C%22external%22%3A%22file%3A%2F%2F%2FUsers%2Fmikel.cuellar%2FDocuments%2FDesarrollito%2FConsultaIcc%2Fbuild.sbt%22%2C%22path%22%3A%22%2FUsers%2Fmikel.cuellar%2FDocuments%2FDesarrollito%2FConsultaIcc%2Fbuild.sbt%22%2C%22scheme%22%3A%22file%22%7D%2C%22range%22%3A%7B%22startLineNumber%22%3A1%2C%22startColumn%22%3A1%2C%22endLineNumber%22%3A9%2C%22endColumn%22%3A62%7D%7D%5D%7D"
+  ]
+}
+java.nio.file.FileSystemNotFoundException: Provider "vscode-chat-code-block" not installed
+	at java.base/java.nio.file.Path.of(Path.java:212)
+	at java.base/java.nio.file.Paths.get(Paths.java:98)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:130)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:187)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:773)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:770)
+	at scala.meta.internal.metals.WorkspaceLspService.didFocus(WorkspaceLspService.scala:698)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:43)
+	at jdk.internal.reflect.GeneratedMethodAccessor11.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:231)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+2024.10.07 14:39:45 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:39:45 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:39:45 WARN  Could not find semantic tokens for: file:///Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 14:39:51 WARN  no build target for: /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 14:39:51 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:39:51 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:39:51 WARN  Could not find semantic tokens for: file:///Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 14:39:51 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:39:51 WARN  Could not find semantic tokens for: file:///Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/build.sbt
+2024.10.07 14:39:54 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:40:01 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:40:01 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:40:02 WARN  no build target for: /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala
+2024.10.07 14:40:02 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:40:02 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:42:02 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:47:13 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:47:31 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:47:31 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:47:33 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:47:33 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:47:42 WARN  no build target for: /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala
+2024.10.07 14:47:42 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:47:42 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:48:03 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:49:01 WARN  no build target for: /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala
+2024.10.07 14:49:01 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:51:08 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Oct 07, 2024 2:51:22 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2024.10.07 14:51:40 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Oct 07, 2024 2:52:06 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2024.10.07 14:52:12 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:52:42 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:52:51 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:53:05 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:53:05 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:53:06 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:53:06 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:53:08 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:53:08 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:53:08 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:53:09 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:53:09 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:53:11 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:53:11 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:53:13 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Oct 07, 2024 2:53:29 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Oct 07, 2024 2:53:55 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2024.10.07 14:56:53 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:56:58 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:56:58 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:57:00 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:57:00 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:57:00 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Oct 07, 2024 2:57:01 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/.metals/.reports/metals-full/2024-10-07/r_compiler-error_14-57-01-095.md
+2024.10.07 14:57:00 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:57:01 WARN  no build target for: /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala
+2024.10.07 14:57:01 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:57:00 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Oct 07, 2024 2:57:01 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/.metals/.reports/metals-full/2024-10-07/r_compiler-error_14-57-01-481.md
+2024.10.07 14:57:00 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:58:55 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:59:29 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:59:29 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:59:29 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:59:29 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:59:29 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:59:29 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:59:29 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:59:29 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:59:30 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 14:59:30 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 15:01:15 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 15:01:16 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 15:01:21 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 15:02:49 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 15:02:49 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 15:02:49 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 15:02:51 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 15:02:51 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 15:02:51 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Oct 07, 2024 3:02:51 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/.metals/.reports/metals-full/2024-10-07/r_compiler-error_15-02-51-344.md
+2024.10.07 15:02:51 WARN  Using indexes to guess the definition of lastConnStart
+2024.10.07 15:02:51 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 15:02:51 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Oct 07, 2024 3:02:52 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/.metals/.reports/metals-full/2024-10-07/r_compiler-error_15-02-52-053.md
+Oct 07, 2024 3:02:52 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/.metals/.reports/metals-full/2024-10-07/r_compiler-error_15-02-52-134.md
+2024.10.07 15:04:27 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 15:04:28 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 15:04:34 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 15:04:34 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 15:04:34 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 15:04:36 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 15:04:39 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 15:04:39 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 15:04:41 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 15:04:42 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 15:04:43 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 15:04:44 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 15:04:44 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 15:04:58 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 15:04:58 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 15:04:59 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 15:04:59 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 15:04:59 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 15:05:00 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 15:07:28 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 15:07:28 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 15:07:28 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 15:07:29 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 15:07:29 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Oct 07, 2024 3:07:29 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/.metals/.reports/metals-full/2024-10-07/r_compiler-error_15-07-29-797.md
+2024.10.07 15:07:29 WARN  Using indexes to guess the definition of lastConnStart
+2024.10.07 15:07:30 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 15:07:30 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Oct 07, 2024 3:07:30 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/.metals/.reports/metals-full/2024-10-07/r_compiler-error_15-07-30-977.md
+2024.10.07 15:07:30 WARN  Using indexes to guess the definition of lastConnStart
+2024.10.07 15:08:24 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 15:08:27 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 15:08:27 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 15:08:29 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 15:08:29 WARN  Could not find semantic tokens for: file:///Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala
+2024.10.07 15:08:41 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 15:08:41 WARN  Could not find semantic tokens for: file:///Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala
+2024.10.07 15:08:56 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 15:08:57 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 15:08:56 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 15:08:59 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 15:09:06 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 15:09:13 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 15:09:25 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 15:09:29 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 15:10:11 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 15:10:20 INFO  running '/Users/mikel.cuellar/Library/Application Support/Coursier/bin/sbt -Dbloop.export-jar-classifiers=sources bloopInstall'
+2024.10.07 15:10:20 WARN  no build target for: /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/project/metals.sbt
+2024.10.07 15:10:21 WARN  no build target for: /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/project/project/metals.sbt
+2024.10.07 15:10:21 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/project/metals.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 15:10:21 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/project/project/metals.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 15:10:21 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 15:10:23 INFO  [info] welcome to sbt 1.10.1 (Eclipse Adoptium Java 11.0.24)
+2024.10.07 15:10:24 INFO  [info] loading settings for project consultaicc-build-build from metals.sbt ...
+2024.10.07 15:10:24 INFO  [info] loading project definition from /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/project/project
+2024.10.07 15:10:27 INFO  [info] loading settings for project consultaicc-build from metals.sbt ...
+2024.10.07 15:10:27 INFO  [info] loading project definition from /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/project
+2024.10.07 15:10:29 INFO  [success] Generated .bloop/consultaicc-build.json
+2024.10.07 15:10:29 INFO  [success] Total time: 2 s, completed Oct 7, 2024, 3:10:29 PM
+2024.10.07 15:10:30 INFO  [info] loading settings for project consultaicc from build.sbt ...
+2024.10.07 15:10:30 INFO  [info] set current project to MyProject (in build file:/Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/)
+2024.10.07 15:10:34 INFO  [success] Generated .bloop/consultaicc.json
+2024.10.07 15:10:34 INFO  [success] Generated .bloop/consultaicc-test.json
+2024.10.07 15:10:34 INFO  [success] Total time: 4 s, completed Oct 7, 2024, 3:10:34 PM
+2024.10.07 15:10:34 INFO  time: ran 'sbt bloopInstall' in 13s
+2024.10.07 15:10:34 INFO  Attempting to connect to the build server...
+2024.10.07 15:10:37 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/.metals/bsp.trace.json or /Users/mikel.cuellar/Library/Caches/org.scalameta.metals/bsp.trace.json
+2024.10.07 15:10:37 INFO  Attempting to connect to the build server...
+2024.10.07 15:10:37 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/project/.metals/bsp.trace.json or /Users/mikel.cuellar/Library/Caches/org.scalameta.metals/bsp.trace.json
+2024.10.07 15:10:37 INFO  time: Connected to build server in 3.28s
+2024.10.07 15:10:37 INFO  Connected to Build server: Bloop v1.6.0
+2024.10.07 15:10:38 INFO  time: Imported build in 0.12s
+2024.10.07 15:10:38 INFO  running doctor check
+2024.10.07 15:10:38 INFO  java targets: consultaicc-build, consultaicc, consultaicc-test
+2024.10.07 15:10:44 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.10.07 15:10:49 INFO  time: indexed workspace in 11s
+exception caught when loading module class module-info$: java.lang.AssertionError: assertion failed: attempt to parse java.lang.Object from classfile
+2024.10.07 15:11:19 INFO  compiling consultaicc (1 scala source)
+2024.10.07 15:11:23 INFO  time: compiled consultaicc in 3.63s
+exception caught when loading module class module-info$: java.lang.AssertionError: assertion failed: attempt to parse java.lang.Object from classfile
+2024.10.07 15:11:25 INFO  time: code lens generation in 1.8s
+2024.10.07 15:11:25 INFO  time: code lens generation in 1.91s
+2024.10.07 15:11:25 INFO  time: code lens generation in 1.99s
+2024.10.07 15:11:25 INFO  time: code lens generation in 1.92s
+2024.10.07 15:11:25 INFO  time: code lens generation in 1.92s
+2024.10.07 15:11:25 INFO  time: code lens generation in 1.8s
+2024.10.07 15:11:25 INFO  time: code lens generation in 1.91s
+2024.10.07 15:11:25 INFO  time: code lens generation in 1.92s
+2024.10.07 15:11:25 INFO  time: code lens generation in 1.92s
+2024.10.07 15:11:25 INFO  time: code lens generation in 1.89s
+2024.10.07 15:11:25 INFO  time: code lens generation in 1.92s
+2024.10.07 15:11:25 INFO  time: code lens generation in 1.93s
+2024.10.07 15:11:25 INFO  time: code lens generation in 1.92s
+2024.10.07 15:11:25 INFO  time: code lens generation in 1.92s
+2024.10.07 15:11:25 INFO  time: code lens generation in 1.93s
+2024.10.07 15:11:25 INFO  time: code lens generation in 1.93s
+2024.10.07 15:11:25 INFO  time: code lens generation in 1.92s
+2024.10.07 15:11:25 INFO  time: code lens generation in 1.93s
+2024.10.07 15:11:25 INFO  time: code lens generation in 1.93s
+2024.10.07 15:11:25 INFO  time: code lens generation in 1.92s
+2024.10.07 15:11:25 INFO  time: code lens generation in 1.93s
+2024.10.07 15:11:25 INFO  time: code lens generation in 1.93s
+2024.10.07 15:11:25 INFO  time: code lens generation in 1.93s
+2024.10.07 15:11:25 INFO  time: code lens generation in 1.93s
+2024.10.07 15:11:25 INFO  time: code lens generation in 1.93s
+2024.10.07 15:11:25 INFO  time: code lens generation in 1.93s
+2024.10.07 15:11:25 INFO  time: code lens generation in 1.93s
+2024.10.07 15:11:25 INFO  time: code lens generation in 1.93s
+2024.10.07 15:11:25 INFO  time: code lens generation in 1.93s
+2024.10.07 15:11:25 INFO  time: code lens generation in 1.94s
+2024.10.07 15:11:25 INFO  time: code lens generation in 1.94s
+2024.10.07 15:11:25 INFO  time: code lens generation in 1.94s
+2024.10.07 15:11:25 INFO  time: code lens generation in 1.94s
+2024.10.07 15:11:25 INFO  time: code lens generation in 1.94s
+2024.10.07 15:11:25 INFO  time: code lens generation in 1.94s
+2024.10.07 15:11:25 INFO  time: code lens generation in 1.94s
+2024.10.07 15:11:25 INFO  time: code lens generation in 1.94s
+2024.10.07 15:11:25 INFO  time: code lens generation in 1.94s
+2024.10.07 15:11:25 INFO  time: code lens generation in 1.94s
+2024.10.07 15:11:25 INFO  time: code lens generation in 1.94s
+2024.10.07 15:11:25 INFO  time: code lens generation in 1.94s
+2024.10.07 15:11:25 INFO  time: code lens generation in 1.94s
+2024.10.07 15:11:25 INFO  time: code lens generation in 1.94s
+2024.10.07 15:11:25 INFO  time: code lens generation in 1.94s
+2024.10.07 15:11:25 INFO  time: code lens generation in 1.94s
+2024.10.07 15:11:25 INFO  time: code lens generation in 1.95s
+2024.10.07 15:11:25 INFO  time: code lens generation in 1.95s
+2024.10.07 15:11:25 INFO  time: code lens generation in 1.94s
+2024.10.07 15:11:25 INFO  time: code lens generation in 1.95s
+2024.10.07 15:11:25 INFO  time: code lens generation in 1.95s
+2024.10.07 15:11:25 INFO  time: code lens generation in 1.95s
+2024.10.07 15:11:25 INFO  time: code lens generation in 1.95s
+2024.10.07 15:11:25 INFO  time: code lens generation in 1.95s
+2024.10.07 15:11:25 INFO  time: code lens generation in 1.95s
+2024.10.07 15:11:25 INFO  time: code lens generation in 1.95s
+2024.10.07 15:11:25 INFO  time: code lens generation in 1.95s
+2024.10.07 15:11:25 INFO  time: code lens generation in 1.95s
+2024.10.07 15:11:25 INFO  time: code lens generation in 1.95s
+2024.10.07 15:11:25 INFO  time: code lens generation in 1.95s
+2024.10.07 15:11:25 INFO  time: code lens generation in 1.95s
+2024.10.07 15:11:25 INFO  time: code lens generation in 1.95s
+2024.10.07 15:11:25 INFO  time: code lens generation in 1.95s
+2024.10.07 15:11:25 INFO  time: code lens generation in 1.95s
+2024.10.07 15:11:25 INFO  time: code lens generation in 1.95s
+2024.10.07 15:11:25 INFO  time: code lens generation in 1.95s
+2024.10.07 15:11:25 INFO  time: code lens generation in 1.95s
+2024.10.07 15:11:25 INFO  time: code lens generation in 1.95s
+2024.10.07 15:11:25 INFO  time: code lens generation in 1.95s
+2024.10.07 15:11:25 INFO  time: code lens generation in 1.95s
+2024.10.07 15:11:25 INFO  time: code lens generation in 1.95s
+2024.10.07 15:11:25 INFO  time: code lens generation in 1.95s
+2024.10.07 15:11:25 INFO  time: code lens generation in 1.97s
+2024.10.07 15:11:25 INFO  time: code lens generation in 1.95s
+2024.10.07 15:11:25 INFO  time: code lens generation in 1.97s
+2024.10.07 15:11:25 INFO  time: code lens generation in 1.96s
+2024.10.07 15:11:25 INFO  time: code lens generation in 1.97s
+2024.10.07 15:11:25 INFO  time: code lens generation in 1.98s
+2024.10.07 15:11:25 INFO  time: code lens generation in 1.97s
+2024.10.07 15:11:25 INFO  time: code lens generation in 1.98s
+2024.10.07 15:11:25 INFO  time: code lens generation in 1.98s
+2024.10.07 15:11:25 INFO  time: code lens generation in 1.99s
+2024.10.07 15:11:25 INFO  time: code lens generation in 1.99s
+2024.10.07 15:11:25 INFO  time: code lens generation in 2s
+2024.10.07 15:11:25 INFO  time: code lens generation in 2s
+2024.10.07 15:11:25 INFO  time: code lens generation in 2s
+2024.10.07 15:11:25 INFO  time: code lens generation in 2s
+2024.10.07 15:11:25 INFO  time: code lens generation in 2s
+2024.10.07 15:11:25 INFO  time: code lens generation in 2s
+2024.10.07 15:11:25 INFO  time: code lens generation in 2s
+2024.10.07 15:11:25 INFO  time: code lens generation in 2s
+2024.10.07 15:11:25 INFO  time: code lens generation in 2s
+2024.10.07 15:11:25 INFO  time: code lens generation in 2s
+2024.10.07 15:11:25 INFO  time: code lens generation in 2.01s
+2024.10.07 15:11:25 INFO  time: code lens generation in 2s
+2024.10.07 15:11:25 INFO  time: code lens generation in 2.01s
+2024.10.07 15:13:21 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/project/metals.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 15:13:21 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/project/metals.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 15:13:21 WARN  Could not find semantic tokens for: file:///Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/project/metals.sbt
+2024.10.07 15:15:17 INFO  compiling consultaicc (1 scala source)
+2024.10.07 15:15:19 INFO  time: compiled consultaicc in 1.52s
+exception caught when loading class module-info: java.lang.AssertionError: assertion failed: attempt to parse java.lang.Object from classfile
+2024.10.07 15:16:05 INFO  Shutting down server
+2024.10.07 15:16:05 INFO  shutting down Metals
+2024.10.07 15:16:05 INFO  Shut down connection with build server.
+2024.10.07 15:16:05 INFO  Shut down connection with build server.
+2024.10.07 15:16:05 INFO  Exiting server
+2024.10.07 15:17:27 INFO  Started: Metals version 1.3.5 in folders '/Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc' for client Visual Studio Code 1.94.0.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@49d0d6e0]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@2ff625fd]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@49d0d6e0]
+2024.10.07 15:17:27 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.10.07 15:17:28 INFO  Attempting to connect to the build server...
+2024.10.07 15:17:29 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 15:17:29 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/.metals/bsp.trace.json or /Users/mikel.cuellar/Library/Caches/org.scalameta.metals/bsp.trace.json
+2024.10.07 15:17:29 INFO  Attempting to connect to the build server...
+2024.10.07 15:17:29 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/project/.metals/bsp.trace.json or /Users/mikel.cuellar/Library/Caches/org.scalameta.metals/bsp.trace.json
+2024.10.07 15:17:29 INFO  time: Connected to build server in 0.68s
+2024.10.07 15:17:29 INFO  Connected to Build server: Bloop v1.6.0
+Oct 07, 2024 3:17:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8
+Oct 07, 2024 3:17:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9
+2024.10.07 15:17:29 INFO  running doctor check
+2024.10.07 15:17:29 INFO  java targets: consultaicc-build, consultaicc, consultaicc-test
+2024.10.07 15:17:32 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.10.07 15:17:32 INFO  time: indexed workspace in 3.3s
+exception caught when loading module class module-info$: java.lang.AssertionError: assertion failed: attempt to parse java.lang.Object from classfile
+2024.10.07 15:25:01 INFO  time: code lens generation in 1.38s
+2024.10.07 15:25:02 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/project/metals.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 15:25:02 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/project/metals.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 15:25:02 WARN  Could not find semantic tokens for: file:///Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/project/metals.sbt
+2024.10.07 15:25:02 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/project/metals.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.07 15:27:04 INFO  compiling consultaicc (1 scala source)
+2024.10.07 15:27:04 INFO  time: compiled consultaicc in 0.79s
+exception caught when loading module class module-info$: java.lang.AssertionError: assertion failed: attempt to parse java.lang.Object from classfile
+2024.10.07 15:33:05 INFO  compiling consultaicc (1 scala source)
+2024.10.07 15:33:05 INFO  time: compiled consultaicc in 0.79s
+exception caught when loading module class module-info$: java.lang.AssertionError: assertion failed: attempt to parse java.lang.Object from classfile
+Oct 07, 2024 3:40:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "vscode-chat-code-block://9dfbe955-bdac-45af-8472-4e124a06c299/response_16/0#%7B%22references%22%3A%5B%7B%22uri%22%3A%7B%22%24mid%22%3A1%2C%22fsPath%22%3A%22%2FUsers%2Fmikel.cuellar%2FDocuments%2FDesarrollito%2FConsultaIcc%2Fsrc%2Fmain%2Fscala%2FMain.scala%22%2C%22external%22%3A%22file%3A%2F%2F%2FUsers%2Fmikel.cuellar%2FDocuments%2FDesarrollito%2FConsultaIcc%2Fsrc%2Fmain%2Fscala%2FMain.scala%22%2C%22path%22%3A%22%2FUsers%2Fmikel.cuellar%2FDocuments%2FDesarrollito%2FConsultaIcc%2Fsrc%2Fmain%2Fscala%2FMain.scala%22%2C%22scheme%22%3A%22file%22%7D%2C%22range%22%3A%7B%22startLineNumber%22%3A22%2C%22startColumn%22%3A1%2C%22endLineNumber%22%3A58%2C%22endColumn%22%3A2%7D%7D%5D%7D"
+  ]
+}
+java.nio.file.FileSystemNotFoundException: Provider "vscode-chat-code-block" not installed
+	at java.base/java.nio.file.Path.of(Path.java:212)
+	at java.base/java.nio.file.Paths.get(Paths.java:98)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:130)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:187)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:773)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:770)
+	at scala.meta.internal.metals.WorkspaceLspService.didFocus(WorkspaceLspService.scala:698)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:43)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:231)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+2024.10.07 15:40:48 INFO  compiling consultaicc (1 scala source)
+2024.10.07 15:40:48 INFO  time: compiled consultaicc in 0.7s
+exception caught when loading module class module-info$: java.lang.AssertionError: assertion failed: attempt to parse java.lang.Object from classfile
+2024.10.07 15:45:09 INFO  compiling consultaicc (1 scala source)
+2024.10.07 15:45:09 INFO  time: compiled consultaicc in 0.68s
+exception caught when loading module class module-info$: java.lang.AssertionError: assertion failed: attempt to parse java.lang.Object from classfile
+2024.10.07 16:01:53 INFO  running '/Users/mikel.cuellar/Library/Application Support/Coursier/bin/sbt -Dbloop.export-jar-classifiers=sources bloopInstall'
+2024.10.07 16:01:55 INFO  [info] welcome to sbt 1.10.1 (Eclipse Adoptium Java 11.0.24)
+2024.10.07 16:01:55 INFO  [info] loading settings for project consultaicc-build-build from metals.sbt ...
+2024.10.07 16:01:56 INFO  compiling consultaicc (1 scala source)
+2024.10.07 16:01:57 INFO  [info] loading project definition from /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/project/project
+2024.10.07 16:01:57 INFO  time: compiled consultaicc in 1.05s
+2024.10.07 16:01:58 INFO  [info] loading settings for project consultaicc-build from metals.sbt ...
+2024.10.07 16:01:58 INFO  [info] loading project definition from /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/project
+2024.10.07 16:02:00 INFO  [success] Generated .bloop/consultaicc-build.json
+2024.10.07 16:02:00 INFO  [success] Total time: 2 s, completed Oct 7, 2024, 4:02:00 PM
+2024.10.07 16:02:01 INFO  [info] loading settings for project consultaicc from build.sbt ...
+2024.10.07 16:02:01 INFO  [info] set current project to MyProject (in build file:/Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/)
+2024.10.07 16:02:03 INFO  [warn] 
+2024.10.07 16:02:03 INFO  [warn] 	Note: Unresolved dependencies path:
+2024.10.07 16:02:03 INFO  [error] Couldn't run bloopGenerate. The issue could be caused by failing to compile the project.
+2024.10.07 16:02:03 INFO  [warn] Removed stale /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/.bloop/consultaicc-test.json
+2024.10.07 16:02:03 INFO  [warn] Removed stale /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/.bloop/consultaicc.json
+2024.10.07 16:02:03 INFO  [error] sbt.librarymanagement.ResolveException: Error downloading org.scalafx:scalafx_3:20.0.0-R25
+2024.10.07 16:02:03 INFO  [error]   Not found
+2024.10.07 16:02:03 INFO  [error]   Not found
+2024.10.07 16:02:03 INFO  [error]   not found: /Users/mikel.cuellar/.ivy2/localorg.scalafx/scalafx_3/20.0.0-R25/ivys/ivy.xml
+2024.10.07 16:02:03 INFO  [error]   not found: https://repo1.maven.org/maven2/org/scalafx/scalafx_3/20.0.0-R25/scalafx_3-20.0.0-R25.pom
+2024.10.07 16:02:03 INFO  [error] 	at lmcoursier.CoursierDependencyResolution.unresolvedWarningOrThrow(CoursierDependencyResolution.scala:346)
+2024.10.07 16:02:03 INFO  [error] 	at lmcoursier.CoursierDependencyResolution.$anonfun$update$39(CoursierDependencyResolution.scala:315)
+2024.10.07 16:02:03 INFO  [error] 	at scala.util.Either$LeftProjection.map(Either.scala:573)
+2024.10.07 16:02:03 INFO  [error] 	at lmcoursier.CoursierDependencyResolution.update(CoursierDependencyResolution.scala:315)
+2024.10.07 16:02:03 INFO  [error] 	at sbt.librarymanagement.DependencyResolution.update(DependencyResolution.scala:60)
+2024.10.07 16:02:03 INFO  [error] 	at sbt.internal.LibraryManagement$.resolve$1(LibraryManagement.scala:60)
+2024.10.07 16:02:03 INFO  [error] 	at sbt.internal.LibraryManagement$.$anonfun$cachedUpdate$12(LibraryManagement.scala:142)
+2024.10.07 16:02:03 INFO  [error] 	at sbt.util.Tracked$.$anonfun$lastOutput$1(Tracked.scala:74)
+2024.10.07 16:02:03 INFO  [error] 	at sbt.internal.LibraryManagement$.$anonfun$cachedUpdate$11(LibraryManagement.scala:144)
+2024.10.07 16:02:03 INFO  [error] 	at sbt.internal.LibraryManagement$.$anonfun$cachedUpdate$11$adapted(LibraryManagement.scala:131)
+2024.10.07 16:02:03 INFO  [error] 	at sbt.util.Tracked$.$anonfun$inputChangedW$1(Tracked.scala:220)
+2024.10.07 16:02:03 INFO  [error] 	at sbt.internal.LibraryManagement$.cachedUpdate(LibraryManagement.scala:169)
+2024.10.07 16:02:03 INFO  [error] 	at sbt.Classpaths$.$anonfun$updateTask0$1(Defaults.scala:3867)
+2024.10.07 16:02:03 INFO  [error] 	at scala.Function1.$anonfun$compose$1(Function1.scala:49)
+2024.10.07 16:02:03 INFO  [error] 	at sbt.internal.util.$tilde$greater.$anonfun$$u2219$1(TypeFunctions.scala:63)
+2024.10.07 16:02:03 INFO  [error] 	at sbt.std.Transform$$anon$4.work(Transform.scala:69)
+2024.10.07 16:02:03 INFO  [error] 	at sbt.Execute.$anonfun$submit$2(Execute.scala:283)
+2024.10.07 16:02:03 INFO  [error] 	at sbt.internal.util.ErrorHandling$.wideConvert(ErrorHandling.scala:24)
+2024.10.07 16:02:03 INFO  [error] 	at sbt.Execute.work(Execute.scala:292)
+2024.10.07 16:02:03 INFO  [error] 	at sbt.Execute.$anonfun$submit$1(Execute.scala:283)
+2024.10.07 16:02:03 INFO  [error] 	at sbt.ConcurrentRestrictions$$anon$4.$anonfun$submitValid$1(ConcurrentRestrictions.scala:265)
+2024.10.07 16:02:03 INFO  [error] 	at sbt.CompletionService$$anon$2.call(CompletionService.scala:65)
+2024.10.07 16:02:03 INFO  [error] 	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+2024.10.07 16:02:03 INFO  [error] 	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+2024.10.07 16:02:03 INFO  [error] 	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+2024.10.07 16:02:03 INFO  [error] 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+2024.10.07 16:02:03 INFO  [error] 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+2024.10.07 16:02:03 INFO  [error] 	at java.base/java.lang.Thread.run(Thread.java:829)
+2024.10.07 16:02:03 INFO  [error] (update) sbt.librarymanagement.ResolveException: Error downloading org.scalafx:scalafx_3:20.0.0-R25
+2024.10.07 16:02:03 INFO  [error]   Not found
+2024.10.07 16:02:03 INFO  [error]   Not found
+2024.10.07 16:02:03 INFO  [error]   not found: /Users/mikel.cuellar/.ivy2/localorg.scalafx/scalafx_3/20.0.0-R25/ivys/ivy.xml
+2024.10.07 16:02:03 INFO  [error]   not found: https://repo1.maven.org/maven2/org/scalafx/scalafx_3/20.0.0-R25/scalafx_3-20.0.0-R25.pom
+2024.10.07 16:02:03 INFO  [error] Total time: 1 s, completed Oct 7, 2024, 4:02:03 PM
+2024.10.07 16:02:03 INFO  time: ran 'sbt bloopInstall' in 10s
+2024.10.07 16:02:03 ERROR sbt command failed: /Users/mikel.cuellar/Library/Application Support/Coursier/bin/sbt -Dbloop.export-jar-classifiers=sources bloopInstall
+2024.10.07 16:02:03 INFO  Disconnecting from Bloop session...
+2024.10.07 16:02:03 INFO  Shut down connection with build server.
+2024.10.07 16:02:03 INFO  Shut down connection with build server.
+2024.10.07 16:02:03 INFO  Attempting to connect to the build server...
+2024.10.07 16:02:03 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/.metals/bsp.trace.json or /Users/mikel.cuellar/Library/Caches/org.scalameta.metals/bsp.trace.json
+2024.10.07 16:02:03 INFO  Attempting to connect to the build server...
+2024.10.07 16:02:03 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/project/.metals/bsp.trace.json or /Users/mikel.cuellar/Library/Caches/org.scalameta.metals/bsp.trace.json
+2024.10.07 16:02:03 INFO  time: Connected to build server in 46ms
+2024.10.07 16:02:03 INFO  Connected to Build server: Bloop v1.6.0
+2024.10.07 16:02:03 INFO  running doctor check
+2024.10.07 16:02:03 INFO  java targets: consultaicc-build
+2024.10.07 16:02:03 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 2.12.19
+2024.10.07 16:02:05 INFO  time: indexed workspace in 1.48s
+2024.10.07 16:02:05 WARN  no build target for: /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala
+2024.10.07 16:02:05 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 2.12.19
+2024.10.07 16:02:05 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 2.12.19
+2024.10.07 16:04:04 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 2.12.19
+2024.10.07 16:04:05 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 2.12.19
+2024.10.07 16:04:06 WARN  no build target for: /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala
+2024.10.07 16:04:06 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 2.12.19
+2024.10.07 16:04:07 WARN  no build target for: /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala
+2024.10.07 16:04:07 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 2.12.19
+2024.10.07 16:04:07 WARN  no build target for: /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala
+2024.10.07 16:04:07 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 2.12.19
+2024.10.07 16:04:07 WARN  no build target for: /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala
+2024.10.07 16:04:07 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 2.12.19
+2024.10.07 16:04:08 WARN  no build target for: /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala
+2024.10.07 16:04:08 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 2.12.19
+2024.10.07 16:04:14 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 2.12.19
+2024.10.07 16:04:14 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 2.12.19
+2024.10.07 16:04:21 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 2.12.19
+2024.10.07 16:04:21 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 2.12.19
+2024.10.07 16:04:22 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 2.12.19
+2024.10.07 16:04:24 WARN  no build target for: /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala
+2024.10.07 16:04:24 INFO  no build target found for /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 2.12.19
+2024.10.07 16:05:16 INFO  running '/Users/mikel.cuellar/Library/Application Support/Coursier/bin/sbt -Dbloop.export-jar-classifiers=sources bloopInstall'
+2024.10.07 16:05:18 INFO  [info] welcome to sbt 1.10.1 (Eclipse Adoptium Java 11.0.24)
+2024.10.07 16:05:18 INFO  [info] loading settings for project consultaicc-build-build from metals.sbt ...
+2024.10.07 16:05:19 INFO  [info] loading project definition from /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/project/project
+2024.10.07 16:05:19 INFO  [info] loading settings for project consultaicc-build from metals.sbt ...
+2024.10.07 16:05:19 INFO  [info] loading project definition from /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/project
+2024.10.07 16:05:22 INFO  [success] Generated .bloop/consultaicc-build.json
+2024.10.07 16:05:22 INFO  [success] Total time: 2 s, completed Oct 7, 2024, 4:05:22 PM
+2024.10.07 16:05:22 INFO  [info] loading settings for project consultaicc from build.sbt ...
+2024.10.07 16:05:22 INFO  [info] set current project to MyProject (in build file:/Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/)
+2024.10.07 16:05:23 INFO  [success] Generated .bloop/consultaicc.json
+2024.10.07 16:05:23 INFO  [success] Generated .bloop/consultaicc-test.json
+2024.10.07 16:05:23 INFO  [success] Total time: 1 s, completed Oct 7, 2024, 4:05:23 PM
+2024.10.07 16:05:23 INFO  time: ran 'sbt bloopInstall' in 7.39s
+2024.10.07 16:05:23 INFO  Disconnecting from Bloop session...
+2024.10.07 16:05:23 INFO  Shut down connection with build server.
+2024.10.07 16:05:23 INFO  Shut down connection with build server.
+2024.10.07 16:05:23 INFO  Attempting to connect to the build server...
+2024.10.07 16:05:23 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/.metals/bsp.trace.json or /Users/mikel.cuellar/Library/Caches/org.scalameta.metals/bsp.trace.json
+2024.10.07 16:05:23 INFO  Attempting to connect to the build server...
+2024.10.07 16:05:23 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/project/.metals/bsp.trace.json or /Users/mikel.cuellar/Library/Caches/org.scalameta.metals/bsp.trace.json
+2024.10.07 16:05:23 INFO  time: Connected to build server in 42ms
+2024.10.07 16:05:23 INFO  Connected to Build server: Bloop v1.6.0
+2024.10.07 16:05:23 INFO  running doctor check
+2024.10.07 16:05:23 INFO  java targets: consultaicc-build, consultaicc, consultaicc-test
+2024.10.07 16:05:25 INFO  time: indexed workspace in 1.5s
+2024.10.07 16:05:25 INFO  compiling consultaicc (1 scala source)
+exception caught when loading class module-info: java.lang.AssertionError: assertion failed: attempt to parse java.lang.Object from classfile
+2024.10.07 16:05:26 INFO  time: compiled consultaicc in 1.11s
+Oct 07, 2024 4:11:13 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "vscode-chat-code-block://9dfbe955-bdac-45af-8472-4e124a06c299/response_16/0#%7B%22references%22%3A%5B%7B%22uri%22%3A%7B%22%24mid%22%3A1%2C%22fsPath%22%3A%22%2FUsers%2Fmikel.cuellar%2FDocuments%2FDesarrollito%2FConsultaIcc%2Fsrc%2Fmain%2Fscala%2FMain.scala%22%2C%22external%22%3A%22file%3A%2F%2F%2FUsers%2Fmikel.cuellar%2FDocuments%2FDesarrollito%2FConsultaIcc%2Fsrc%2Fmain%2Fscala%2FMain.scala%22%2C%22path%22%3A%22%2FUsers%2Fmikel.cuellar%2FDocuments%2FDesarrollito%2FConsultaIcc%2Fsrc%2Fmain%2Fscala%2FMain.scala%22%2C%22scheme%22%3A%22file%22%7D%2C%22range%22%3A%7B%22startLineNumber%22%3A22%2C%22startColumn%22%3A1%2C%22endLineNumber%22%3A58%2C%22endColumn%22%3A2%7D%7D%5D%7D"
+  ]
+}
+java.nio.file.FileSystemNotFoundException: Provider "vscode-chat-code-block" not installed
+	at java.base/java.nio.file.Path.of(Path.java:212)
+	at java.base/java.nio.file.Paths.get(Paths.java:98)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:130)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:187)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:773)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:770)
+	at scala.meta.internal.metals.WorkspaceLspService.didFocus(WorkspaceLspService.scala:698)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:43)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:231)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+exception caught when loading module class module-info$: java.lang.AssertionError: assertion failed: attempt to parse java.lang.Object from classfile
+Oct 07, 2024 4:17:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "vscode-chat-code-block://9dfbe955-bdac-45af-8472-4e124a06c299/response_20/0#%7B%22references%22%3A%5B%7B%22uri%22%3A%7B%22%24mid%22%3A1%2C%22fsPath%22%3A%22%2FUsers%2Fmikel.cuellar%2FDocuments%2FDesarrollito%2FConsultaIcc%2Fsrc%2Fmain%2Fscala%2FMain.scala%22%2C%22external%22%3A%22file%3A%2F%2F%2FUsers%2Fmikel.cuellar%2FDocuments%2FDesarrollito%2FConsultaIcc%2Fsrc%2Fmain%2Fscala%2FMain.scala%22%2C%22path%22%3A%22%2FUsers%2Fmikel.cuellar%2FDocuments%2FDesarrollito%2FConsultaIcc%2Fsrc%2Fmain%2Fscala%2FMain.scala%22%2C%22scheme%22%3A%22file%22%7D%2C%22range%22%3A%7B%22startLineNumber%22%3A40%2C%22startColumn%22%3A1%2C%22endLineNumber%22%3A59%2C%22endColumn%22%3A2%7D%7D%5D%7D"
+  ]
+}
+java.nio.file.FileSystemNotFoundException: Provider "vscode-chat-code-block" not installed
+	at java.base/java.nio.file.Path.of(Path.java:212)
+	at java.base/java.nio.file.Paths.get(Paths.java:98)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:130)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:187)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:773)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:770)
+	at scala.meta.internal.metals.WorkspaceLspService.didFocus(WorkspaceLspService.scala:698)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:43)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:231)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+

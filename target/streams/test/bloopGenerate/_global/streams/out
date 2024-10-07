@@ -1,0 +1,4 @@
+[debug] [consultaicc-test] Classpath dependencies List()
+[debug] [consultaicc-test] Dependencies from configurations List(consultaicc)
+[debug] Bloop wrote the configuration of project 'consultaicc-test' to '/Users/mikel.cuellar/Documents/Desarrollito/ConsultaIcc/.bloop/consultaicc-test.json'
+[success] Generated .bloop/consultaicc-test.json
